@@ -1,6 +1,9 @@
 <?php
 
 
+include 'mnsplus_functions.php';
+
+
 /**
  * A simple class to verify a user's log-in credentials for MNS+ (http://mns.bildung-rp.de/).
  * Static class fields need to be adapted to the respective MNS+ instance.
